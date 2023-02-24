@@ -48,6 +48,8 @@ q6 :: output
 
 ```
 
+The above solution will work for any 2 n-bit numbers since no assumption is made about the length of the bits in the given numbers. 
+
 Other References Used:
 * arXiv:quant-ph/0411037
  (or arXiv:quant-ph/0411037v1 for this version)
